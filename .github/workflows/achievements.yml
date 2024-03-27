@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Generate GitHub Metrics & Upload to B2
+name: Generate Achievement GitHub Metrics & Upload to B2
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 0 * * *"}]

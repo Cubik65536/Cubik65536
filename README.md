@@ -83,7 +83,7 @@ A Java & Kotlin & Python & Swift Developer, Minecraft Player.
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=F0F0F0" style="display: inline-block" />
   <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=F0F0F0" style="display: inline-block" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=F0F0F0" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=F0F0F0" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=F0F0F0" style="display: inline-block" />
 </p>
 
 <p>
@@ -93,8 +93,9 @@ A Java & Kotlin & Python & Swift Developer, Minecraft Player.
   -->
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=F0F0F0" style="display: inline-block" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=F0F0F0" style="display: inline-block" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" style="display: inline-block" />
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=F0F0F0" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="display: inline-block" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=F0F0F0" style="display: inline-block" />
 </p>
 
@@ -102,8 +103,9 @@ A Java & Kotlin & Python & Swift Developer, Minecraft Player.
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=F0F0F0" style="display: inline-block" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=F0F0F0" style="display: inline-block" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=F0F0F0" style="display: inline-block" />
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=F0F0F0" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/typst-%23239DAD.svg?style=for-the-badge&logo=latex&logoColor=F0F0F0" style="display: inline-block" />
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=F0F0F0" style="display: inline-block" />
 </p>
 
 ------

@@ -69,10 +69,10 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: CodeEditApp/CodeEdit, SlopeCraft/SlopeCraft, ungoogled-software/ungoogled-chromium-macos
           plugin_repositories_order: featured, pinned, starred, random
-      - name: Checkout the repository
-        uses: actions/checkout@master
       - name: Rename file
         run: mv github-metrics.svg short-github-metrics.svg
+      - name: Checkout the repository
+        uses: actions/checkout@master
       - name: Upload Generated Metrics to B2
         uses: sksat/b2-upload-action@v0.1.0
         with:

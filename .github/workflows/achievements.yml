@@ -31,6 +31,7 @@ jobs:
           # Options
           template: classic
           base: ""
+          config_display: large
           config_timezone: America/Toronto
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -38,6 +39,8 @@ jobs:
           plugin_achievements_threshold: X
       - name: Checkout the repository
         uses: actions/checkout@master
+      - name: Rename file
+        run: mv github-metrics.svg achievements-github-metrics.svg
       - name: Upload Generated Metrics to B2
         uses: sksat/b2-upload-action@v0.1.0
         with:
@@ -45,5 +48,4 @@ jobs:
           key: ${{ secrets.B2_APPKEY }}
           bucket: ${{ secrets.B2_BUCKET }}
           src: achievements-github-metrics.svg
-          dest: github-cubik65536-metrics.svg
-          
+          dest: achievements-github-cubik65536-metrics.svg   

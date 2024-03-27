@@ -82,5 +82,4 @@ jobs:
           key: ${{ secrets.B2_APPKEY }}
           bucket: ${{ secrets.B2_BUCKET }}
           src: github-metrics.svg
-          dest: github-cubik65536-metrics.svg
-          
+          dest: github-cubik65536-metrics.svg   

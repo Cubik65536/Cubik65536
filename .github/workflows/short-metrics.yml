@@ -71,6 +71,8 @@ jobs:
           plugin_repositories_order: featured, pinned, starred, random
       - name: Checkout the repository
         uses: actions/checkout@master
+      - name: Rename file
+        run: mv github-metrics.svg short-github-metrics.svg
       - name: Upload Generated Metrics to B2
         uses: sksat/b2-upload-action@v0.1.0
         with:
@@ -78,4 +80,4 @@ jobs:
           key: ${{ secrets.B2_APPKEY }}
           bucket: ${{ secrets.B2_BUCKET }}
           src: short-github-metrics.svg
-          dest: github-cubik65536-metrics.svg
+          dest: short-github-cubik65536-metrics.svg

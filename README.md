@@ -130,7 +130,7 @@ If you want to contact me, the most efficient way is to send emails to me. I wil
 
 **[Download my PGP Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/F9CBDDD99B6043914632B9D8DDB32000DDDF3D48)**
 
-------
+<img src="https://github-archivement.cubik65536.top/github-metrics.svg" />
 
 ## 🎉 Thanks
 

@@ -100,6 +100,7 @@ Thanks to [@JohnsonRan](https://github.com/JohnsonRan) for providing me network 
 ### Sponsors
 
 > - [@pascal-giguere (GitHub)](https://github.com/pascal-giguere)
+> - [@kevingriffin (GitHub)](https://github.com/kevingriffin)
 
 You can also sponsor me on [`GitHub`](https://github.com/sponsors/Cubik65536) or [`by me a coffee`](https://www.buymeacoffee.com/cubik65536) so that your name will be also on the list!
 

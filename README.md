@@ -103,6 +103,7 @@ Thanks to [@JohnsonRan](https://github.com/JohnsonRan) for providing me network 
 > - [@kevingriffin (GitHub)](https://github.com/kevingriffin)
 > - BabyFn0rd (Buy Me a Coffee)
 > - dasos (Buy Me a Coffee)
+> - [@vinnysaj (GitHub)](https://github.com/vinnysaj)
 
 You can also sponsor me on [`GitHub`](https://github.com/sponsors/Cubik65536) or [`by me a coffee`](https://www.buymeacoffee.com/cubik65536) so that your name will be also on the list!
 

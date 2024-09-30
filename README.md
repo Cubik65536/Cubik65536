@@ -71,7 +71,7 @@
 
 ### 📫 Contact Me
 
-[![PGP Fingerprint](https://img.shields.io/badge/My%20PGP%20Fingerprint--%23FA7343?style=for-the-badge)](./pgp-public-key.asc)
+[![PGP Fingerprint](https://img.shields.io/badge/My%20PGP%20Fingerprint-0662%209B81%204A16%20551B-%23FA7343?style=for-the-badge)](./pgp-public-key.asc)
  > Click on the badge to see my public key!
 
 If you want to contact me, the most efficient way is to send emails to me. I will check my inbox every 4 to 5 hours, so you should get my response pretty quickly unless the mail system moves your message to the junk box, which I usually will clear directly after a quick check every week (so it's possible that I can't even see your email before it got deleted).
@@ -82,7 +82,7 @@ If you want to contact me, the most efficient way is to send emails to me. I wil
 
 *I will **ALWAYS** use my PGP signature when I reply or send messages with my email, and I will **ALWAYS** encrypt my message when I reply to an **encrypted** message.*
 
-**If you received a reply message but was not signed with ``, it is very likely that the message was not sent by me unless I publicly revoked `` and changed my keys. Please refer to [My PGP Info Site](https://pgp.cubik65536.top/) for more information.**
+**If you received a reply message but was not signed with `0662 9B81 4A16 551B`, it is very likely that the message was not sent by me unless I publicly revoked `0662 9B81 4A16 551B` and changed my keys. Please refer to [My PGP Info Site](https://pgp.cubik65536.top/) for more information.**
 
 > [!WARNING]
 > My PGP key having the fingerprint `DDB3 2000 DDDF 3D48` is **NO LONGER VALID** and **SHALL NOT BE TRUSTED** since 2024/09/28 (incl.).

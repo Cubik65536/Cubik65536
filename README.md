@@ -87,8 +87,6 @@ If you want to contact me, the most efficient way is to send emails to me. I wil
 > [!WARNING]
 > My PGP key having the fingerprint `DDB3 2000 DDDF 3D48` is **NO LONGER VALID** and **SHALL NOT BE TRUSTED** since 2024/09/28 (incl.).
 
-**[Download my PGP Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/)**
-
 <img src="https://github-archivement.cubik65536.top/github-metrics.svg" />
 
 ## 🎉 Thanks

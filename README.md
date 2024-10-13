@@ -97,7 +97,7 @@ Thanks to [@JohnsonRan](https://github.com/JohnsonRan) for providing me network 
 
 ### Sponsors
 
-> - [dasos (Buy Me a Coffee)](https://github.com/BabyFnord)
+> - dasos (Buy Me a Coffee)
 > - [@vinnysaj (GitHub)](https://github.com/vinnysaj)
 > - [@trinque (GitHub)](https://github.com/trinque)
 > - [@marlonjames71 (GitHub)](https://github.com/marlonjames71)

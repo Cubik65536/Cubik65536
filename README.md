@@ -97,10 +97,7 @@ Thanks to [@JohnsonRan](https://github.com/JohnsonRan) for providing me network 
 
 ### Sponsors
 
-> - dasos (Buy Me a Coffee)
-> - [@vinnysaj (GitHub)](https://github.com/vinnysaj)
-> - [@trinque (GitHub)](https://github.com/trinque)
-> - [@marlonjames71 (GitHub)](https://github.com/marlonjames71)
+> - [@kremalicious (GitHub)](https://github.com/kremalicious)
 
 You can also sponsor me on [`GitHub`](https://github.com/sponsors/Cubik65536) or [`by me a coffee`](https://www.buymeacoffee.com/cubik65536) so that your name will be also on the list!
 

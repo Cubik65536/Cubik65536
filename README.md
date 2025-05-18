@@ -99,9 +99,10 @@ Thanks to [@JohnsonRan](https://github.com/JohnsonRan) for providing me network 
 
 ### Sponsors
 
-> - 3Onion (Buy Me a Coffee)
+> - [@mjsagert](https://github.com/mjsagert)
+> - Antoine Dornstetter (Buy Me a Coffee)
 
-You can also sponsor me on [`GitHub`](https://github.com/sponsors/Cubik65536) or [`by me a coffee`](https://www.buymeacoffee.com/cubik65536) so that your name will be also on the list!
+You can also sponsor me on [`GitHub`](https://github.com/sponsors/Cubik65536) or [`Buy Me a Coffee`](https://www.buymeacoffee.com/cubik65536) so that your name will be also on the list!
 
 <p>
   <a href="https://github.com/sponsors/Cubik65536"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" width="auto" height="40" /></a>
